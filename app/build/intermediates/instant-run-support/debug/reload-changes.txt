@@ -1,0 +1,11 @@
+CHANGED,D:\wc\asworkspace\JJMusic\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\zzz\shiro\jjmusic\MyFragment$4$1$override.class
+CHANGED,D:\wc\asworkspace\JJMusic\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\zzz\shiro\jjmusic\MyFragment$4$override.class
+CHANGED,D:\wc\asworkspace\JJMusic\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\zzz\shiro\jjmusic\MyFragment$5$1$override.class
+CHANGED,D:\wc\asworkspace\JJMusic\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\zzz\shiro\jjmusic\MyFragment$4$2$override.class
+CHANGED,D:\wc\asworkspace\JJMusic\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\zzz\shiro\jjmusic\MyFragment$5$override.class
+CHANGED,D:\wc\asworkspace\JJMusic\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\zzz\shiro\jjmusic\BottomBar$override.class
+CHANGED,D:\wc\asworkspace\JJMusic\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\zzz\shiro\jjmusic\MyFragment$3$override.class
+CHANGED,D:\wc\asworkspace\JJMusic\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\zzz\shiro\jjmusic\MyFragment$override.class
+CHANGED,D:\wc\asworkspace\JJMusic\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,D:\wc\asworkspace\JJMusic\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\zzz\shiro\jjmusic\BottomBar$6$override.class
+CHANGED,D:\wc\asworkspace\JJMusic\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\zzz\shiro\jjmusic\MyFragment$5$2$override.class

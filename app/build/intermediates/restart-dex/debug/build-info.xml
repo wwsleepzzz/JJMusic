@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="xhdpi"
+    format="7"
+    timestamp="773445485180654"
+    token="1533268954259145189" >
+
+    <task
+        name="javac"
+        duration="923" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="67" />
+    <task
+        name="verifier"
+        duration="14" />
+
+    <artifact
+        location="D:\wc\asworkspace\JJMusic\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
+        type="DEX" />
+
+    <build timestamp="745425697200452" >
+        <artifact
+            location="D:\wc\asworkspace\JJMusic\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="745633370865536"
+        verifier="R_CLASS_CHANGE" >
+        <artifact
+            location="D:\wc\asworkspace\JJMusic\app\build\intermediates\res\resources-debug.ap_"
+            type="RESOURCES" />
+    </build>
+    <build timestamp="773445485180654" >
+        <artifact
+            location="D:\wc\asworkspace\JJMusic\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>
