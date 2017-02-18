@@ -209,7 +209,14 @@ public class MyFragment extends Fragment
 
                 Log.d(className,"pathId="+pathId);
                 songImage = null;
-                metaRetriver.setDataSource(pathId);
+
+                try{
+                    metaRetriver.setDataSource("/storage/emulated/0/Download/大家的日本語第7課─美聲單字朗讀.mp3");
+                }catch(Exception e){
+                    Log.d(className,"error!");
+                    e.printStackTrace();
+                    continue;
+                }
 
                 try {
                     picByte = metaRetriver.getEmbeddedPicture();
