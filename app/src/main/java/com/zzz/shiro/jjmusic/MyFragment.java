@@ -211,7 +211,7 @@ public class MyFragment extends Fragment
                 songImage = null;
 
                 try{
-                    metaRetriver.setDataSource("/storage/emulated/0/Download/大家的日本語第7課─美聲單字朗讀.mp3");
+                    metaRetriver.setDataSource(pathId);
                 }catch(Exception e){
                     Log.d(className,"error!");
                     e.printStackTrace();
@@ -297,11 +297,13 @@ public class MyFragment extends Fragment
                     bottomBar.belmotPlayer.getPlayerEngine().reset();
 
 
-                    //先處理上一首
-                    View vv = mRecyclerView.getChildAt(bottomBar.belmotPlayer.getPlayerEngine().getOriIdx());
-                    ImageView image_play = (ImageView) vv.findViewById(R.id.imageView2);
-                    image_play.setBackgroundResource(0);
+                    //先處理上一首 TODO
+//                    RecyclerView recyclerView = (RecyclerView) view.getParent();
+//                    View vv = recyclerView.getChildAt(bottomBar.belmotPlayer.getPlayerEngine().getOriIdx());
+//                    ImageView image_play = (ImageView) vv.findViewById(R.id.imageView2);
+//                    image_play.setBackgroundResource(0);
                     bottomBar.closeBottomBar();
+
 
 
                     //再處理這首
@@ -358,7 +360,9 @@ public class MyFragment extends Fragment
         }
 
 
-        //處理cardView
+
+        //處理cardView TODO
+        holder.image_album.setTag("play");
         holder.image_album.setImageBitmap(song.getPic()); //重新set圖片
         holder.image_play.setBackgroundResource(R.drawable.play);
 
